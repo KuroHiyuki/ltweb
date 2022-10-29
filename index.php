@@ -67,7 +67,7 @@
         }
             else 
                 {
-                    echo "0 results a";
+                    echo "0 results ";
                 }
                 mysqli_close($conn);
             
