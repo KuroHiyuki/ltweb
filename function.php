@@ -1,4 +1,5 @@
 <?php
+	echo "Chao mung";
     function sortCourseArray ( &$arr)
         {
             $key=array();   
