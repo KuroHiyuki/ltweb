@@ -44,7 +44,7 @@
                 </tr>
 
                 <tr>
-                <td>"."Ten mon hoc: " . $row["tenmonhoc"] ."</td>
+                <td>"."Ten mon hoc 1: " . $row["tenmonhoc"] ."</td>
                 </tr>
 
                 <tr>
